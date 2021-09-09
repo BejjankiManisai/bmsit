@@ -1,2 +1,0 @@
-# bmsit
- Observer Pattern resubmit
